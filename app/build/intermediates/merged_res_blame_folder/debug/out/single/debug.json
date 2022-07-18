@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_user_profile.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_user_profile.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_user_profile.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_user_profile.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_surah_row.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\item_surah_row.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_24.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_arrow_back_24.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_user_profile.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_user_profile.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_user_profile.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_user_profile.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_para_list_fragment.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\para_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_rectangle.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\image_rectangle.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_24.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_info_24.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_bg.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\rectangle_bg.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_surah.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_surah.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_para_row.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\item_para_row.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_24.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_settings_24.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_recitor.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_select_recitor.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_verse_row.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\item_verse_row.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quran.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_quran.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_para.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_para.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_curve.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\edit_curve.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_surah_list.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\activity_surah_list.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_no_pro.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_no_pro.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_cross.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable-anydpi\\ic_cross.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_surah_list_fragment.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\layout\\surah_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_user_profile.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_user_profile.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy.png.flat",
+        "source": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\src\\main\\res\\drawable\\dummy.png"
+    }
+]

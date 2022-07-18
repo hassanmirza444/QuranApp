@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.SettingsActivity">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_arabic_qari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Arabic Qari"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_translated_qari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Qari for Translation"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_arabic_qari"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_tafseer_qari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Qari for Tafseer"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_translated_qari"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_transliteration_qari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Qari for transliteration"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_tafseer_qari"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

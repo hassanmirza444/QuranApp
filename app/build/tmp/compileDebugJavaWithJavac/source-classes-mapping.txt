@@ -1,0 +1,301 @@
+com/example/demo/viewmodel/ParaListViewModel_HiltModules.java
+ com.example.demo.viewmodel.ParaListViewModel_HiltModules
+ com.example.demo.viewmodel.ParaListViewModel_HiltModules$BindsModule
+ com.example.demo.viewmodel.ParaListViewModel_HiltModules$KeyModule
+com/example/demo/di/AppModule_ProvidesSurahDaoFactory.java
+ com.example.demo.di.AppModule_ProvidesSurahDaoFactory
+com/example/demo/di/AppModule_ProvidesParaDaoFactory.java
+ com.example.demo.di.AppModule_ProvidesParaDaoFactory
+hilt_aggregated_deps/_com_example_demo_di_AppModule.java
+ hilt_aggregated_deps._com_example_demo_di_AppModule
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+hilt_aggregated_deps/_com_example_demo_viewmodel_SurahListViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_SurahListViewModel_HiltModules_BindsModule
+com/example/demo/database/AlertViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.example.demo.database.AlertViewModel_HiltModules_KeyModule_ProvideFactory
+ com.example.demo.database.AlertViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/demo/viewmodel/ParaListViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.example.demo.viewmodel.ParaListViewModel_HiltModules_KeyModule_ProvideFactory
+ com.example.demo.viewmodel.ParaListViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/example/demo/viewmodel/VerseListViewModel_Factory.java
+ com.example.demo.viewmodel.VerseListViewModel_Factory
+com/example/demo/models/Ayah.java
+ com.example.demo.models.Ayah
+com/example/demo/models/SurahDetail.java
+ com.example.demo.models.SurahDetail
+dagger/hilt/internal/aggregatedroot/codegen/_com_example_demo_di_BaseApp.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_example_demo_di_BaseApp
+com/example/demo/databinding/ActivitySettingsBinding.java
+ com.example.demo.databinding.ActivitySettingsBinding
+com/example/demo/databinding/ItemParaRowBinding.java
+ com.example.demo.databinding.ItemParaRowBinding
+hilt_aggregated_deps/_com_example_demo_ui_ParaActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_ParaActivity_GeneratedInjector
+com/example/demo/databinding/NavHeaderMainBinding.java
+ com.example.demo.databinding.NavHeaderMainBinding
+com/example/demo/databinding/ActivityParaBindingImpl.java
+ com.example.demo.databinding.ActivityParaBindingImpl
+com/example/demo/viewmodel/ParaListViewModel_Factory.java
+ com.example.demo.viewmodel.ParaListViewModel_Factory
+com/example/demo/DataBindingTriggerClass.java
+ com.example.demo.DataBindingTriggerClass
+hilt_aggregated_deps/_com_example_demo_viewmodel_RecitorListViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_RecitorListViewModel_HiltModules_KeyModule
+com/example/demo/databinding/ActivitySelectRecitorBindingImpl.java
+ com.example.demo.databinding.ActivitySelectRecitorBindingImpl
+com/example/demo/databinding/ItemSurahRowBinding.java
+ com.example.demo.databinding.ItemSurahRowBinding
+com/example/demo/di/AppModule_ProvidesOkHttpClientFactory.java
+ com.example.demo.di.AppModule_ProvidesOkHttpClientFactory
+ com.example.demo.di.AppModule_ProvidesOkHttpClientFactory$InstanceHolder
+hilt_aggregated_deps/_com_example_demo_ui_SurahActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_SurahActivity_GeneratedInjector
+com/example/demo/di/AppModule_ProvidesSurahDatabaseFactory.java
+ com.example.demo.di.AppModule_ProvidesSurahDatabaseFactory
+com/example/demo/databinding/ItemVerseRowBinding.java
+ com.example.demo.databinding.ItemVerseRowBinding
+hilt_aggregated_deps/_com_example_demo_viewmodel_RecitorListViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_RecitorListViewModel_HiltModules_BindsModule
+com/example/demo/models/Recitor.java
+ com.example.demo.models.Recitor
+com/example/demo/models/ParahDetail.java
+ com.example.demo.models.ParahDetail
+hilt_aggregated_deps/_com_example_demo_database_AlertViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_example_demo_database_AlertViewModel_HiltModules_KeyModule
+hilt_aggregated_deps/_androidx_hilt_lifecycle_ViewModelFactoryModules_FragmentModuleModuleDeps.java
+ hilt_aggregated_deps._androidx_hilt_lifecycle_ViewModelFactoryModules_FragmentModuleModuleDeps
+com/example/demo/di/AppModule_ProvidesParaRepositoryFactory.java
+ com.example.demo.di.AppModule_ProvidesParaRepositoryFactory
+com/example/demo/models/RecitorsResponse.java
+ com.example.demo.models.RecitorsResponse
+hilt_aggregated_deps/_com_example_demo_viewmodel_SurahListViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_SurahListViewModel_HiltModules_KeyModule
+com/example/demo/viewmodel/RecitorListViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.example.demo.viewmodel.RecitorListViewModel_HiltModules_KeyModule_ProvideFactory
+ com.example.demo.viewmodel.RecitorListViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/example/demo/di/AppModule_ProvidesApiService2Factory.java
+ com.example.demo.di.AppModule_ProvidesApiService2Factory
+com/example/demo/databinding/AppBarMainBinding.java
+ com.example.demo.databinding.AppBarMainBinding
+com/example/demo/databinding/ActivityMainBinding.java
+ com.example.demo.databinding.ActivityMainBinding
+hilt_aggregated_deps/_com_example_demo_viewmodel_VerseListViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_VerseListViewModel_HiltModules_KeyModule
+com/example/demo/ui/Hilt_SelectRecitorActivity.java
+ com.example.demo.ui.Hilt_SelectRecitorActivity
+ com.example.demo.ui.Hilt_SelectRecitorActivity$1
+dagger/hilt/internal/processedrootsentinel/codegen/_com_example_demo_di_BaseApp.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_example_demo_di_BaseApp
+com/example/demo/databinding/ParaListFragmentBinding.java
+ com.example.demo.databinding.ParaListFragmentBinding
+com/example/demo/BR.java
+ com.example.demo.BR
+com/example/demo/databinding/ActivitySelectRecitorBinding.java
+ com.example.demo.databinding.ActivitySelectRecitorBinding
+com/example/demo/database/AlertViewModel_Factory.java
+ com.example.demo.database.AlertViewModel_Factory
+com/example/demo/databinding/ActivitySurahBindingImpl.java
+ com.example.demo.databinding.ActivitySurahBindingImpl
+com/example/demo/databinding/ItemSurahRowBindingImpl.java
+ com.example.demo.databinding.ItemSurahRowBindingImpl
+com/example/demo/databinding/SurahListFragmentBinding.java
+ com.example.demo.databinding.SurahListFragmentBinding
+com/example/demo/viewmodel/RecitorListViewModel_HiltModules.java
+ com.example.demo.viewmodel.RecitorListViewModel_HiltModules
+ com.example.demo.viewmodel.RecitorListViewModel_HiltModules$BindsModule
+ com.example.demo.viewmodel.RecitorListViewModel_HiltModules$KeyModule
+com/example/demo/di/AppModule_ProvidesApiServiceFactory.java
+ com.example.demo.di.AppModule_ProvidesApiServiceFactory
+hilt_aggregated_deps/_com_example_demo_ui_SelectRecitorActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_SelectRecitorActivity_GeneratedInjector
+com/example/demo/BuildConfig.java
+ com.example.demo.BuildConfig
+com/example/demo/viewmodel/VerseListViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.example.demo.viewmodel.VerseListViewModel_HiltModules_KeyModule_ProvideFactory
+ com.example.demo.viewmodel.VerseListViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/example/demo/viewmodel/RecitorListViewModel_Factory.java
+ com.example.demo.viewmodel.RecitorListViewModel_Factory
+hilt_aggregated_deps/_com_example_demo_database_AlertViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_example_demo_database_AlertViewModel_HiltModules_BindsModule
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+hilt_aggregated_deps/_com_example_demo_viewmodel_VerseListViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_VerseListViewModel_HiltModules_BindsModule
+com/example/demo/databinding/ActivityParaBinding.java
+ com.example.demo.databinding.ActivityParaBinding
+com/example/demo/repository/MainRepository_Factory.java
+ com.example.demo.repository.MainRepository_Factory
+com/example/demo/viewmodel/SurahListViewModel_Factory.java
+ com.example.demo.viewmodel.SurahListViewModel_Factory
+hilt_aggregated_deps/_androidx_hilt_lifecycle_ViewModelFactoryModules_ActivityModuleModuleDeps.java
+ hilt_aggregated_deps._androidx_hilt_lifecycle_ViewModelFactoryModules_ActivityModuleModuleDeps
+com/example/demo/di/AppModule_ProvidesUrlTestFactory.java
+ com.example.demo.di.AppModule_ProvidesUrlTestFactory
+ com.example.demo.di.AppModule_ProvidesUrlTestFactory$InstanceHolder
+com/example/demo/database/SurahRepository_Factory.java
+ com.example.demo.database.SurahRepository_Factory
+com/example/demo/databinding/ActivityQuranBinding.java
+ com.example.demo.databinding.ActivityQuranBinding
+com/example/demo/databinding/ItemParaRowBindingImpl.java
+ com.example.demo.databinding.ItemParaRowBindingImpl
+com/example/demo/models/Edition.java
+ com.example.demo.models.Edition
+com/example/demo/databinding/ActivitySettingsBindingImpl.java
+ com.example.demo.databinding.ActivitySettingsBindingImpl
+com/example/demo/viewmodel/SurahListViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.example.demo.viewmodel.SurahListViewModel_HiltModules_KeyModule_ProvideFactory
+ com.example.demo.viewmodel.SurahListViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/example/demo/databinding/ContentMainBinding.java
+ com.example.demo.databinding.ContentMainBinding
+com/example/demo/viewmodel/SurahListViewModel_HiltModules.java
+ com.example.demo.viewmodel.SurahListViewModel_HiltModules
+ com.example.demo.viewmodel.SurahListViewModel_HiltModules$BindsModule
+ com.example.demo.viewmodel.SurahListViewModel_HiltModules$KeyModule
+com/example/demo/database/AlertViewModel_HiltModules.java
+ com.example.demo.database.AlertViewModel_HiltModules
+ com.example.demo.database.AlertViewModel_HiltModules$BindsModule
+ com.example.demo.database.AlertViewModel_HiltModules$KeyModule
+com/example/demo/network/ApiServiceImpl_Factory.java
+ com.example.demo.network.ApiServiceImpl_Factory
+hilt_aggregated_deps/_com_example_demo_viewmodel_ParaListViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_ParaListViewModel_HiltModules_KeyModule
+com/example/demo/database/QuranDatabase_Impl.java
+ com.example.demo.database.QuranDatabase_Impl
+ com.example.demo.database.QuranDatabase_Impl$1
+com/example/demo/di/AppModule_ProvidesSurahRepositoryFactory.java
+ com.example.demo.di.AppModule_ProvidesSurahRepositoryFactory
+com/example/demo/database/ParaRepository_Factory.java
+ com.example.demo.database.ParaRepository_Factory
+com/example/demo/viewmodel/VerseListViewModel_HiltModules.java
+ com.example.demo.viewmodel.VerseListViewModel_HiltModules
+ com.example.demo.viewmodel.VerseListViewModel_HiltModules$BindsModule
+ com.example.demo.viewmodel.VerseListViewModel_HiltModules$KeyModule
+com/example/demo/models/SurahDetailResponse.java
+ com.example.demo.models.SurahDetailResponse
+com/example/demo/databinding/ItemVerseRowBindingImpl.java
+ com.example.demo.databinding.ItemVerseRowBindingImpl
+com/example/demo/ui/SelectRecitorActivity_GeneratedInjector.java
+ com.example.demo.ui.SelectRecitorActivity_GeneratedInjector
+hilt_aggregated_deps/_com_example_demo_ui_fragment_SurahListFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_fragment_SurahListFragment_GeneratedInjector
+com/example/demo/databinding/ActivityQuranBindingImpl.java
+ com.example.demo.databinding.ActivityQuranBindingImpl
+com/example/demo/databinding/ActivitySurahListBinding.java
+ com.example.demo.databinding.ActivitySurahListBinding
+hilt_aggregated_deps/_com_example_demo_di_BaseApp_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_di_BaseApp_GeneratedInjector
+hilt_aggregated_deps/_com_example_demo_ui_fragment_ParaListFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_fragment_ParaListFragment_GeneratedInjector
+com/example/demo/DataBinderMapperImpl.java
+ com.example.demo.DataBinderMapperImpl
+ com.example.demo.DataBinderMapperImpl$InnerBrLookup
+ com.example.demo.DataBinderMapperImpl$InnerLayoutIdLookup
+hilt_aggregated_deps/_com_example_demo_ui_QuranActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_QuranActivity_GeneratedInjector
+com/example/demo/database/ParaDao_Impl.java
+ com.example.demo.database.ParaDao_Impl
+ com.example.demo.database.ParaDao_Impl$1
+ com.example.demo.database.ParaDao_Impl$2
+ com.example.demo.database.ParaDao_Impl$3
+ com.example.demo.database.ParaDao_Impl$4
+com/example/demo/di/BaseApp_GeneratedInjector.java
+ com.example.demo.di.BaseApp_GeneratedInjector
+com/example/demo/models/JuzzModel.java
+ com.example.demo.models.JuzzModel
+hilt_aggregated_deps/_com_example_demo_ui_SurahListActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_demo_ui_SurahListActivity_GeneratedInjector
+com/example/demo/database/SurahDao_Impl.java
+ com.example.demo.database.SurahDao_Impl
+ com.example.demo.database.SurahDao_Impl$1
+ com.example.demo.database.SurahDao_Impl$2
+ com.example.demo.database.SurahDao_Impl$3
+ com.example.demo.database.SurahDao_Impl$4
+com/example/demo/databinding/FragmentHomeBinding.java
+ com.example.demo.databinding.FragmentHomeBinding
+hilt_aggregated_deps/_com_example_demo_viewmodel_ParaListViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_example_demo_viewmodel_ParaListViewModel_HiltModules_BindsModule
+com/example/demo/databinding/ActivitySurahBinding.java
+ com.example.demo.databinding.ActivitySurahBinding
+com/example/demo/databinding/ParaListFragmentBindingImpl.java
+ com.example.demo.databinding.ParaListFragmentBindingImpl
+com/example/demo/ui/Hilt_SurahActivity.java
+ com.example.demo.ui.Hilt_SurahActivity
+ com.example.demo.ui.Hilt_SurahActivity$1
+com/example/demo/ui/ParaActivity_GeneratedInjector.java
+ com.example.demo.ui.ParaActivity_GeneratedInjector
+com/example/demo/di/BaseApp_ComponentTreeDeps.java
+ com.example.demo.di.BaseApp_ComponentTreeDeps
+com/example/demo/ui/Hilt_SurahListActivity.java
+ com.example.demo.ui.Hilt_SurahListActivity
+ com.example.demo.ui.Hilt_SurahListActivity$1
+com/example/demo/di/DaggerBaseApp_HiltComponents_SingletonC.java
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$1
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ActivityCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ActivityCImpl
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$Builder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$FragmentCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$FragmentCImpl
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ServiceCImpl
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$SwitchingProvider
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewCImpl
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewModelCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewModelCImpl
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ com.example.demo.di.DaggerBaseApp_HiltComponents_SingletonC$ViewWithFragmentCImpl
+com/example/demo/di/Hilt_BaseApp.java
+ com.example.demo.di.Hilt_BaseApp
+ com.example.demo.di.Hilt_BaseApp$1
+com/example/demo/ui/fragment/ParaListFragment_GeneratedInjector.java
+ com.example.demo.ui.fragment.ParaListFragment_GeneratedInjector
+com/example/demo/ui/fragment/SurahListFragment_GeneratedInjector.java
+ com.example.demo.ui.fragment.SurahListFragment_GeneratedInjector
+com/example/demo/ui/Hilt_ParaActivity.java
+ com.example.demo.ui.Hilt_ParaActivity
+ com.example.demo.ui.Hilt_ParaActivity$1
+com/example/demo/ui/SurahListActivity_GeneratedInjector.java
+ com.example.demo.ui.SurahListActivity_GeneratedInjector
+com/example/demo/ui/Hilt_QuranActivity.java
+ com.example.demo.ui.Hilt_QuranActivity
+ com.example.demo.ui.Hilt_QuranActivity$1
+com/example/demo/di/BaseApp_HiltComponents.java
+ com.example.demo.di.BaseApp_HiltComponents
+ com.example.demo.di.BaseApp_HiltComponents$ActivityC
+ com.example.demo.di.BaseApp_HiltComponents$ActivityC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$ActivityCBuilderModule
+ com.example.demo.di.BaseApp_HiltComponents$ActivityRetainedC
+ com.example.demo.di.BaseApp_HiltComponents$ActivityRetainedC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$ActivityRetainedCBuilderModule
+ com.example.demo.di.BaseApp_HiltComponents$FragmentC
+ com.example.demo.di.BaseApp_HiltComponents$FragmentC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$FragmentCBuilderModule
+ com.example.demo.di.BaseApp_HiltComponents$ServiceC
+ com.example.demo.di.BaseApp_HiltComponents$ServiceC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$ServiceCBuilderModule
+ com.example.demo.di.BaseApp_HiltComponents$SingletonC
+ com.example.demo.di.BaseApp_HiltComponents$ViewC
+ com.example.demo.di.BaseApp_HiltComponents$ViewC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$ViewCBuilderModule
+ com.example.demo.di.BaseApp_HiltComponents$ViewModelC
+ com.example.demo.di.BaseApp_HiltComponents$ViewModelC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$ViewModelCBuilderModule
+ com.example.demo.di.BaseApp_HiltComponents$ViewWithFragmentC
+ com.example.demo.di.BaseApp_HiltComponents$ViewWithFragmentC$Builder
+ com.example.demo.di.BaseApp_HiltComponents$ViewWithFragmentCBuilderModule
+com/example/demo/ui/fragment/Hilt_ParaListFragment.java
+ com.example.demo.ui.fragment.Hilt_ParaListFragment
+com/example/demo/ui/fragment/Hilt_SurahListFragment.java
+ com.example.demo.ui.fragment.Hilt_SurahListFragment
+com/example/demo/ui/QuranActivity_GeneratedInjector.java
+ com.example.demo.ui.QuranActivity_GeneratedInjector
+com/example/demo/ui/SurahActivity_GeneratedInjector.java
+ com.example.demo.ui.SurahActivity_GeneratedInjector

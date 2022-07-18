@@ -1,0 +1,37 @@
+package com.example.demo.cons;
+
+import java.lang.System;
+
+@kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\u001e\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\u000e\n\u0000\n\u0002\u0010\u0011\n\u0002\u0010\u0015\n\u0002\b\f\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002R\u000e\u0010\u0003\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\"\u0010\u0005\u001a\b\u0012\u0004\u0012\u00020\u00070\u0006X\u0086\u000e\u00a2\u0006\u0010\n\u0002\u0010\f\u001a\u0004\b\b\u0010\t\"\u0004\b\n\u0010\u000bR\"\u0010\r\u001a\b\u0012\u0004\u0012\u00020\u00040\u0006X\u0086\u000e\u00a2\u0006\u0010\n\u0002\u0010\u0012\u001a\u0004\b\u000e\u0010\u000f\"\u0004\b\u0010\u0010\u0011\u00a8\u0006\u0013"}, d2 = {"Lcom/example/demo/cons/Cons;", "", "()V", "BASE_URL", "", "PARAH_SURAH_AYAH", "", "", "getPARAH_SURAH_AYAH", "()[[I", "setPARAH_SURAH_AYAH", "([[I)V", "[[I", "juzzStartingWord", "getJuzzStartingWord", "()[Ljava/lang/String;", "setJuzzStartingWord", "([Ljava/lang/String;)V", "[Ljava/lang/String;", "app_debug"})
+public final class Cons {
+    @org.jetbrains.annotations.NotNull()
+    public static final com.example.demo.cons.Cons INSTANCE = null;
+    @org.jetbrains.annotations.NotNull()
+    public static final java.lang.String BASE_URL = "http://api.alquran.cloud/v1/";
+    @org.jetbrains.annotations.NotNull()
+    private static java.lang.String[] juzzStartingWord = {"\u0627\u0644\u0653\u0645\u0653", "\u0633\u064e\u064a\u064e\u0642\u064f\u0648\u0644", "\u062a\u0650\u0644\u06e1\u0643\u064e \u0671\u0644\u0631\u0651\u064f\u0633\u064f\u0644\u064f", "\u0644\u064e\u0646 \u062a\u064e\u0646\u064e\u0627\u0644\u064f\u0648", "\u0648\u064e\u0671\u0644\u06e1\u0645\u064f\u062d\u06e1\u0635\u064e\u0646\u064e\u0640\u0670\u062a\u064f", "\u0644\u0651\u064e\u0627 \u064a\u064f\u062d\u0650\u0628\u0651\u064f \u0671\u0644\u0644\u0651\u064e\u0647\u064f", "\u0648\u064e\u0625\u0650\u0630\u064e\u0627 \u0633\u064e\u0645\u0650\u0639\u064f\u0648\u0627", "\u0648\u064e\u0644\u064e\u0648\u06e1 \u0623\u064e\u0646\u0651\u064e\u0646\u064e\u0627", "\u0642\u064e\u0627\u0644\u064e \u0671\u0644\u06e1\u0645\u064e\u0644\u064e\u0623\u064f", "\u0648\u064e\u0671\u0639\u06e1\u0644\u064e\u0645\u064f\u0648\u0653\u0627\u0652", "\u064a\u064e\u0639\u06e1\u062a\u064e\u0630\u0650\u0631\u064f\u0648\u0646", "\u0648\u064e\u0645\u064e\u0627 \u0645\u0650\u0646 \u062f\u064e\u0627\u0653\u0628\u0651\u064e\u0629\u064d", "\u0648\u064e\u0645\u064e\u0627\u0653 \u0623\u064f\u0628\u064e\u0631\u0651\u0650\u0626\u064f", "\u0631\u0651\u064f\u0628\u064e\u0645\u064e\u0627", "\u0633\u064f\u0628\u06e1\u062d\u064e\u0640\u0670\u0646\u064e \u0671\u0644\u0651\u064e\u0630\u0650\u0649\u0653", "\u0642\u064e\u0627\u0644\u064e \u0623\u064e\u0644\u064e\u0645", "\u0671\u0642\u06e1\u062a\u064e\u0631\u064e\u0628\u064e \u0644\u0650\u0644\u0646\u0651\u064e\u0627\u0633\u0650", "\u0642\u064e\u062f\u06e1 \u0623\u064e\u0641\u06e1\u0644\u064e\u062d\u064e", "\u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e", "\u0623\u064e\u0645\u0651\u064e\u0646\u06e1 \u062e\u064e\u0644\u064e\u0642\u064e", "\u0671\u062a\u06e1\u0644\u064f \u0645\u064e\u0627\u0653 \u0623\u064f\u0648\u062d\u0650\u0649\u064e", "\u0648\u064e\u0645\u064e\u0646 \u064a\u064e\u0642\u06e1\u0646\u064f\u062a\u06e1", "\u0648\u064e\u0645\u064e\u0627 \u0644\u0650\u0649\u064e", "\u0641\u064e\u0645\u064e\u0646\u06e1 \u0623\u064e\u0638\u06e1\u0644\u064e\u0645\u064f", "\u0625\u0650\u0644\u064e\u064a\u06e1\u0647\u0650 \u064a\u064f\u0631\u064e\u062f\u0651\u064f", "\u062d\u0645\u0653", "\u0642\u064e\u0627\u0644\u064e \u0641\u064e\u0645\u064e\u0627 \u062e\u064e\u0637\u06e1\u0628\u064f\u0643\u064f\u0645", "\u0642\u064e\u062f\u06e1 \u0633\u064e\u0645\u0650\u0639\u064e \u0671\u0644\u0644\u0651\u064e\u0647", "\u062a\u064e\u0628\u064e\u0640\u0670\u0631\u064e\u0643\u064e \u0671\u0644\u0651\u064e\u0630\u0650\u0649", "\u0639\u064e\u0645\u0651"};
+    @org.jetbrains.annotations.NotNull()
+    private static int[][] PARAH_SURAH_AYAH = {{2, 148}, {1, 111}, {2, 126}, {2, 131}, {1, 124}, {2, 110}, {2, 149}, {2, 142}, {2, 159}, {2, 127}, {3, 151}, {2, 170}, {3, 154}, {2, 227}, {2, 185}, {3, 269}, {2, 190}, {3, 202}, {3, 339}, {3, 171}, {5, 178}, {4, 169}, {4, 357}, {3, 175}, {5, 246}, {6, 195}, {7, 399}, {9, 137}, {1, 431}, {37, 564}};
+    
+    private Cons() {
+        super();
+    }
+    
+    @org.jetbrains.annotations.NotNull()
+    public final java.lang.String[] getJuzzStartingWord() {
+        return null;
+    }
+    
+    public final void setJuzzStartingWord(@org.jetbrains.annotations.NotNull()
+    java.lang.String[] p0) {
+    }
+    
+    @org.jetbrains.annotations.NotNull()
+    public final int[][] getPARAH_SURAH_AYAH() {
+        return null;
+    }
+    
+    public final void setPARAH_SURAH_AYAH(@org.jetbrains.annotations.NotNull()
+    int[][] p0) {
+    }
+}
