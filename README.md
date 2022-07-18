@@ -27,10 +27,3 @@ If the app is installed for the first time:- Api will hit and fetch Data from se
 If App is launched :- It will check if there is any data saved in database if yes it will show else it will call Api
 
 Swipe to delete functionality :- It will delete data locally and observer will be called to check if there is any data left if not API will be called to fetch data again
-
-![alt text](https://github.com/quicklearner4991/Room-Dagger-Hilt-Mvvm-DI-Coroutines-Retrofit-Data-Binding/blob/main/Room.png)
-
-
-Video Demo Link:
-
-https://youtu.be/iIVKw0b7bs0
