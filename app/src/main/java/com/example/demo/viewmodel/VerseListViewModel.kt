@@ -7,6 +7,7 @@ import com.example.demo.models.SurahDetailResponse
 import com.example.demo.repository.MainRepository
 import com.example.demo.util.ApiState
 import com.example.demo.util.QuranAppSharedPreferences
+import com.google.gson.JsonObject
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.catch
@@ -45,4 +46,10 @@ constructor(private val mainRepository: MainRepository) : ViewModel() {
                 postStateFlow.value = ApiState.Success(data)
             }
     }
+
+
+
+
+
+
 }

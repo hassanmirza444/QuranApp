@@ -2,6 +2,7 @@ package com.example.demo.repository
 
 import com.example.demo.models.*
 import com.example.demo.network.ApiServiceImpl
+import com.google.gson.JsonObject
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
@@ -31,5 +32,9 @@ constructor(private val apiServiceImpl: ApiServiceImpl) {
     fun getAllRecitorsListofGivenType(type : String): Flow<RecitorsResponse> = flow {
         emit(apiServiceImpl.getAllRecitorsListofGivenType(type))
     }.flowOn(Dispatchers.IO)
+
+
+
+
 }
 

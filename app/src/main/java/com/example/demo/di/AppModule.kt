@@ -6,14 +6,13 @@ import com.example.demo.cons.Cons.BASE_URL
 import com.example.demo.database.*
 import com.example.demo.network.ApiService
 import com.example.demo.network.ApiService2
-import com.example.demo.network.ApiServiceImpl
-import com.example.demo.repository.MainRepository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import okhttp3.OkHttpClient
+import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Singleton
@@ -29,7 +28,7 @@ object AppModule {
             .allowMainThreadQueries().build()
 
     @Provides
-    fun providesSurahDao(userDatabase: QuranDatabase): SurahDao = userDatabase.userDao()
+    fun providesSurahDao(userDatabase: QuranDatabase): SurahDao = userDatabase.surahDao()
 
 
 
@@ -47,11 +46,20 @@ object AppModule {
 
     @Singleton
     @Provides
-    fun providesOkHttpClient(): OkHttpClient =
-        OkHttpClient
-            .Builder()
+    fun providesOkHttpClient(): OkHttpClient  {
+
+        val interceptor = run {
+            val httpLoggingInterceptor = HttpLoggingInterceptor()
+            httpLoggingInterceptor.apply {
+                httpLoggingInterceptor.level = HttpLoggingInterceptor.Level.BODY
+            }
+        }
+
+        return  OkHttpClient
+            .Builder().addInterceptor(interceptor)
            // .addInterceptor(BasicAuthInterceptor("PortOfOakland", "OaklandPortal@2022!*"))
             .build()
+    }
 
     @Provides
     @Singleton
@@ -73,6 +81,9 @@ object AppModule {
             .addConverterFactory(GsonConverterFactory.create())
             .build()
             .create(ApiService2::class.java)
+
+
+
 
 
 }
