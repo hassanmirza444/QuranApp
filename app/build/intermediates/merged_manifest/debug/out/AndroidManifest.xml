@@ -15,25 +15,27 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
+        android:exported="true"
         android:icon="@mipmap/ic_launcher"
         android:label="Quran App"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:taskAffinity=".string"
         android:testOnly="true"
         android:theme="@style/Theme.Demo.NoActionBar"
         android:usesCleartextTraffic="true" >
         <activity
             android:name="com.example.demo.ui.ParaActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name="com.example.demo.ui.QuranActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name="com.example.demo.ui.SelectRecitorActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name="com.example.demo.ui.SettingsActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name="com.example.demo.ui.MainActivity"
             android:exported="true"
@@ -47,7 +49,7 @@
         </activity>
         <activity
             android:name="com.example.demo.ui.SurahActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name="com.example.demo.ui.SurahListActivity"
             android:exported="true" />

@@ -2,6 +2,7 @@ package com.example.demo.ui
 
 import android.content.Context
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
@@ -15,8 +16,11 @@ import com.example.demo.models.ParahDetailResponse
 import com.example.demo.util.ApiState
 import com.example.demo.util.Utilities
 import com.example.demo.viewmodel.VerseListViewModel
+import com.google.gson.JsonObject
+import com.google.gson.JsonParser
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collect
+import org.json.JSONObject
 
 @AndroidEntryPoint
 class ParaActivity : AppCompatActivity(), VerseAdapter.OnItemClickListener {
@@ -44,11 +48,14 @@ class ParaActivity : AppCompatActivity(), VerseAdapter.OnItemClickListener {
             } else {
                 binding.clInfo.visibility = View.GONE
             }
+
         }
         binding.ivBack.setOnClickListener {
             onBackPressed()
         }
     }
+
+
 
     private fun callApi(id: Int) {
         verseListViewModel.getParah(id)
@@ -63,7 +70,7 @@ class ParaActivity : AppCompatActivity(), VerseAdapter.OnItemClickListener {
                     is ApiState.Success<*> -> {
                         binding.rvVersesList.visibility = View.VISIBLE
                         val result = it.result as ParahDetailResponse
-                        binding.tvParahTitle.text = Cons.juzzStartingWord[id-1]
+                        binding.tvParahTitle.text = Cons.juzzStartingWord[id - 1]
                         binding.tvInfo.text = ""
                         verseAdapter.setData(result.data.ayahs!!, ArrayList())
                     }

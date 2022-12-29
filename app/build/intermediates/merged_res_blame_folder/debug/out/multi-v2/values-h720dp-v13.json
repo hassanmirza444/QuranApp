@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FreeLauncing\\playStore\\QuranApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "/Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\coeus\\.jdks\\corretto-1.8.0_292\\caches\\transforms-2\\files-2.1\\e0351b3bf59da5737000950e68635684\\appcompat-1.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "/Users/coeus/.gradle/caches/transforms-2/files-2.1/e0351b3bf59da5737000950e68635684/appcompat-1.2.0/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

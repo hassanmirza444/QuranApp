@@ -9,7 +9,7 @@ import javax.inject.Inject
 
 class ApiServiceImpl @Inject constructor(
     private val apiService: ApiService,
-    private val apiService2: ApiService2,
+    private val apiService2: ApiService2
 ) {
 
     suspend fun getAllSurahInfoList(): SurahInfoResponse = apiService.getAllSurahInfo()

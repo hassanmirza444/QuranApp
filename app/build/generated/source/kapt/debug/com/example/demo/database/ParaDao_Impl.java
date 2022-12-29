@@ -6,10 +6,10 @@ import androidx.room.EntityDeletionOrUpdateAdapter;
 import androidx.room.EntityInsertionAdapter;
 import androidx.room.RoomDatabase;
 import androidx.room.RoomSQLiteQuery;
-import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
 import com.example.demo.models.ParaInfo;
+import java.lang.Class;
 import java.lang.Exception;
 import java.lang.Integer;
 import java.lang.Object;
@@ -17,6 +17,7 @@ import java.lang.Override;
 import java.lang.String;
 import java.lang.SuppressWarnings;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.Callable;
 import kotlin.Unit;
@@ -120,25 +121,41 @@ public final class ParaDao_Impl implements ParaDao {
       public List<ParaInfo> call() throws Exception {
         final Cursor _cursor = DBUtil.query(__db, _statement, false, null);
         try {
-          final int _cursorIndexOfNumber = CursorUtil.getColumnIndexOrThrow(_cursor, "number");
-          final int _cursorIndexOfName = CursorUtil.getColumnIndexOrThrow(_cursor, "name");
-          final int _cursorIndexOfEnglishName = CursorUtil.getColumnIndexOrThrow(_cursor, "englishName");
-          final int _cursorIndexOfEnglishNameTranslation = CursorUtil.getColumnIndexOrThrow(_cursor, "englishNameTranslation");
-          final int _cursorIndexOfRevelationType = CursorUtil.getColumnIndexOrThrow(_cursor, "revelationType");
-          final int _cursorIndexOfNumberOfAyahs = CursorUtil.getColumnIndexOrThrow(_cursor, "numberOfAyahs");
+          final int _cursorIndexOfNumber = 0;
+          final int _cursorIndexOfName = 1;
+          final int _cursorIndexOfEnglishName = 2;
+          final int _cursorIndexOfEnglishNameTranslation = 3;
+          final int _cursorIndexOfRevelationType = 4;
+          final int _cursorIndexOfNumberOfAyahs = 5;
           final List<ParaInfo> _result = new ArrayList<ParaInfo>(_cursor.getCount());
           while(_cursor.moveToNext()) {
             final ParaInfo _item;
             final int _tmpNumber;
             _tmpNumber = _cursor.getInt(_cursorIndexOfNumber);
             final String _tmpName;
-            _tmpName = _cursor.getString(_cursorIndexOfName);
+            if (_cursor.isNull(_cursorIndexOfName)) {
+              _tmpName = null;
+            } else {
+              _tmpName = _cursor.getString(_cursorIndexOfName);
+            }
             final String _tmpEnglishName;
-            _tmpEnglishName = _cursor.getString(_cursorIndexOfEnglishName);
+            if (_cursor.isNull(_cursorIndexOfEnglishName)) {
+              _tmpEnglishName = null;
+            } else {
+              _tmpEnglishName = _cursor.getString(_cursorIndexOfEnglishName);
+            }
             final String _tmpEnglishNameTranslation;
-            _tmpEnglishNameTranslation = _cursor.getString(_cursorIndexOfEnglishNameTranslation);
+            if (_cursor.isNull(_cursorIndexOfEnglishNameTranslation)) {
+              _tmpEnglishNameTranslation = null;
+            } else {
+              _tmpEnglishNameTranslation = _cursor.getString(_cursorIndexOfEnglishNameTranslation);
+            }
             final String _tmpRevelationType;
-            _tmpRevelationType = _cursor.getString(_cursorIndexOfRevelationType);
+            if (_cursor.isNull(_cursorIndexOfRevelationType)) {
+              _tmpRevelationType = null;
+            } else {
+              _tmpRevelationType = _cursor.getString(_cursorIndexOfRevelationType);
+            }
             final Integer _tmpNumberOfAyahs;
             if (_cursor.isNull(_cursorIndexOfNumberOfAyahs)) {
               _tmpNumberOfAyahs = null;
@@ -159,5 +176,9 @@ public final class ParaDao_Impl implements ParaDao {
         _statement.release();
       }
     });
+  }
+
+  public static List<Class<?>> getRequiredConverters() {
+    return Collections.emptyList();
   }
 }

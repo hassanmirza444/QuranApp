@@ -39,17 +39,14 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
 
-        navView.setNavigationItemSelectedListener(object :
-            NavigationView.OnNavigationItemSelectedListener {
-            override fun onNavigationItemSelected(menuItem: MenuItem): Boolean {
-                val id: Int = menuItem.getItemId()
-                if (id == R.id.nav_home) {
-                    val newIntent = Intent(this@MainActivity, SettingsActivity::class.java)
-                    startActivity(newIntent)
-                }
-                return true
+        navView.setNavigationItemSelectedListener { menuItem ->
+            val id: Int = menuItem.getItemId()
+            if (id == R.id.nav_home) {
+                val newIntent = Intent(this@MainActivity, SettingsActivity::class.java)
+                startActivity(newIntent)
             }
-        })
+            true
+        }
 
     }
 

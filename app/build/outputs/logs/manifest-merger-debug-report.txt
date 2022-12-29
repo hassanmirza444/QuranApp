@@ -1,368 +1,372 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b7cfb7b073b9f8ca135319deb2844ed5\databinding-adapters-4.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\eb0072bd616b8789a227918aeb06cb25\databinding-runtime-4.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\62552321a675ec0e408083d53ef2dfe1\jetified-viewbinding-4.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [io.coil-kt:coil:1.4.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\25b01c9363d4f1fa8dcf356b4a0b5516\jetified-coil-1.4.0\AndroidManifest.xml:2:1-9:12
-MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f007519e9e3395564b41ead310df53cd\jetified-coil-base-1.4.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a031989a271d8e307e8982513a863c32\jetified-lifecycle-livedata-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3ef25b2c1d1b05ab1ada4c4943228030\jetified-room-ktx-2.2.5\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\19a0304f42a307a88a00b1eaaa374b77\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ba76d494bf9ece197879d97de2c06d2f\navigation-fragment-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8f885e1248cbde449004d253aa107180\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\96d70613d1011213e930fd8b967e5561\navigation-ui-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0d4dd6ac321d07ceeec660b57345a938\navigation-runtime-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\09fa36f6b5ba76ca30637cda2f97dd07\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\70bf3515c10701d7b9c171c75d58b872\navigation-runtime-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5d4ee7504f58a1c2775884f6e0bce384\jetified-activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aa103fee805a621804824fb0733c7d7d\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\196864f9157bb02282b91dc909267947\material-1.4.0-beta01\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5338bbb3417e98c14b4c1ffcf6dc2c22\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e0351b3bf59da5737000950e68635684\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\239936fa9eb17fd6a736e16c102fdf2e\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\31bccff63facfabcc84a0941f5745a86\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\085c25dadb39645c679a200850d57f7a\jetified-hilt-android-2.38.1\AndroidManifest.xml:16:1-19:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c2a4ba15f85a1c61ca7ab4d31cc796de\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\64d222643c61f148af64f943f2312604\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6a81bf926eb8707e9dffc924def625e9\navigation-common-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e4e785dfd4b0c45d92b87a8696ee95e4\navigation-common-2.4.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f878346d1763f63ddb8e0a22bbb43455\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\87eb12e8f7ccd520102f9af7c30a0d55\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\307c3528db9ccfa6b2b825c48283263d\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\45354f1c66bf153a616435f8aef649b7\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d867524ae716a3137d054aa44abf9ca1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\bfea232eba9aa6e7e05e08d440ce22fd\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [com.intuit.ssp:ssp-android:1.0.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6152b5e78b80d0732cd9a0c30c5daeae\jetified-ssp-android-1.0.5\AndroidManifest.xml:2:1-11:12
-MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\138d51b607540c6469df5f3f6ea5fb90\jetified-sdp-android-1.0.5\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\be27981bf106d55c19f027ac59deac07\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b25f70503b6cbff195ebf8546be0a0e6\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f46b49490b41083d52a466a0c6e0aad4\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c135d0cf072858219c37cb2cda1d906e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.2.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b77f7151d2891cfa8eff26bb3589c59a\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\efb79d74c41c29ac490865eb5db87f5d\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e6e9b9bfa0541fcac450db9a8a43038\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a511226b619ed9732a77eef7f6df6661\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8c8747b0ac154137c412d4c0895e032b\lifecycle-livedata-2.3.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\db02a9c4547c2920c0eba09b2adbf235\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6795f26118607ad5b0e88ac02f422c21\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1577f0a2487a38b8eabf276428094d70\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b3c19c49079cf98869c7f71e68881b4b\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9377d8d04997a64e1e3175b8e91bd0f7\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8880c631f0a9af390b5eedb7b97e488a\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\494607ca5aaa0b501cf6e5413cbab863\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4a89ca58ee60249d02822908c7168d8e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\07ce862dee28bd054a8edbd4ab3c440b\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\35613a5de30162c5168cc7e6bc6f2c74\transition-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\7ebf750a6420ef0c5cf5bf0956aa5306\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b4e0e59b6f82b9e39daa223ee0f78739\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\077b7f8edc2ab19dfc3d0ac29236c1fe\core-1.6.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b19e1bbc434136d1c77fe8fff3775cd0\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b701850023ecfcb72d9358631823e4ff\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b92bb01e975c4c4e0b133eee9fc8f853\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\626b0704fd8c8d81ce26adb55882031f\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8e1a728e6ae0d9d70544eedfcf328c02\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d9c575fffeb03e1f6262c62548a21b3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\68b1eb7bfe353fccfaacf1387e638f0d\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a7de4c313e671571f0841621a6b2c31b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\eeb4d37d5e9b661a6d11b00093d7fe69\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3637a9fa02f514d02027194a16287cbf\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1f762a8581c65b0ce89e41d9345aa762\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cc1d983b10f448058d31ce28fbed63aa\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\152bbc500adddea585ea6d9f8137fff9\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9939fec7987ada03df38cc72cae6c29a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\21bb3ff68203042edc9cc8b9cb61703b\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:16:1-19:12
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b7cfb7b073b9f8ca135319deb2844ed5/databinding-adapters-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eb0072bd616b8789a227918aeb06cb25/databinding-runtime-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/62552321a675ec0e408083d53ef2dfe1/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil:1.4.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/25b01c9363d4f1fa8dcf356b4a0b5516/jetified-coil-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.4.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f007519e9e3395564b41ead310df53cd/jetified-coil-base-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a031989a271d8e307e8982513a863c32/jetified-lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eeca56889edcacfb6394e03733213a47/jetified-room-ktx-2.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/19a0304f42a307a88a00b1eaaa374b77/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/ba76d494bf9ece197879d97de2c06d2f/navigation-fragment-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8f885e1248cbde449004d253aa107180/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/96d70613d1011213e930fd8b967e5561/navigation-ui-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/0d4dd6ac321d07ceeec660b57345a938/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/09fa36f6b5ba76ca30637cda2f97dd07/navigation-ui-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/70bf3515c10701d7b9c171c75d58b872/navigation-runtime-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5d4ee7504f58a1c2775884f6e0bce384/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/aa103fee805a621804824fb0733c7d7d/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/coeus/.gradle/caches/transforms-2/files-2.1/196864f9157bb02282b91dc909267947/material-1.4.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5338bbb3417e98c14b4c1ffcf6dc2c22/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/e0351b3bf59da5737000950e68635684/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/239936fa9eb17fd6a736e16c102fdf2e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/coeus/.gradle/caches/transforms-2/files-2.1/31bccff63facfabcc84a0941f5745a86/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/085c25dadb39645c679a200850d57f7a/jetified-hilt-android-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/c2a4ba15f85a1c61ca7ab4d31cc796de/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/64d222643c61f148af64f943f2312604/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6a81bf926eb8707e9dffc924def625e9/navigation-common-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/e4e785dfd4b0c45d92b87a8696ee95e4/navigation-common-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f878346d1763f63ddb8e0a22bbb43455/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/87eb12e8f7ccd520102f9af7c30a0d55/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/307c3528db9ccfa6b2b825c48283263d/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/45354f1c66bf153a616435f8aef649b7/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/d867524ae716a3137d054aa44abf9ca1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/bfea232eba9aa6e7e05e08d440ce22fd/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6152b5e78b80d0732cd9a0c30c5daeae/jetified-ssp-android-1.0.5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/coeus/.gradle/caches/transforms-2/files-2.1/138d51b607540c6469df5f3f6ea5fb90/jetified-sdp-android-1.0.5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/be27981bf106d55c19f027ac59deac07/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b25f70503b6cbff195ebf8546be0a0e6/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f46b49490b41083d52a466a0c6e0aad4/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/c135d0cf072858219c37cb2cda1d906e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b77f7151d2891cfa8eff26bb3589c59a/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/efb79d74c41c29ac490865eb5db87f5d/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a511226b619ed9732a77eef7f6df6661/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b701850023ecfcb72d9358631823e4ff/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9e6e9b9bfa0541fcac450db9a8a43038/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6795f26118607ad5b0e88ac02f422c21/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1577f0a2487a38b8eabf276428094d70/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b3c19c49079cf98869c7f71e68881b4b/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9377d8d04997a64e1e3175b8e91bd0f7/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8880c631f0a9af390b5eedb7b97e488a/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/494607ca5aaa0b501cf6e5413cbab863/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4a89ca58ee60249d02822908c7168d8e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/07ce862dee28bd054a8edbd4ab3c440b/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/35613a5de30162c5168cc7e6bc6f2c74/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/7ebf750a6420ef0c5cf5bf0956aa5306/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b4e0e59b6f82b9e39daa223ee0f78739/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/077b7f8edc2ab19dfc3d0ac29236c1fe/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b19e1bbc434136d1c77fe8fff3775cd0/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8c8747b0ac154137c412d4c0895e032b/lifecycle-livedata-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/db02a9c4547c2920c0eba09b2adbf235/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/09bd02865c15b632116c3009cac0fab7/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/de4668a716410f7c84c78a6aa436c69c/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eeb4d37d5e9b661a6d11b00093d7fe69/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8e1a728e6ae0d9d70544eedfcf328c02/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/d9c575fffeb03e1f6262c62548a21b3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/68b1eb7bfe353fccfaacf1387e638f0d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a7de4c313e671571f0841621a6b2c31b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/3637a9fa02f514d02027194a16287cbf/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1f762a8581c65b0ce89e41d9345aa762/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/cc1d983b10f448058d31ce28fbed63aa/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/152bbc500adddea585ea6d9f8137fff9/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9939fec7987ada03df38cc72cae6c29a/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/21bb3ff68203042edc9cc8b9cb61703b/jetified-dagger-lint-aar-2.38.1/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
 	package
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:1-47:12
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:7:5-45:19
-MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\196864f9157bb02282b91dc909267947\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\196864f9157bb02282b91dc909267947\material-1.4.0-beta01\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5338bbb3417e98c14b4c1ffcf6dc2c22\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5338bbb3417e98c14b4c1ffcf6dc2c22\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
-MERGED from [androidx.core:core:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\077b7f8edc2ab19dfc3d0ac29236c1fe\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\077b7f8edc2ab19dfc3d0ac29236c1fe\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1f762a8581c65b0ce89e41d9345aa762\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1f762a8581c65b0ce89e41d9345aa762\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:7:5-47:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/coeus/.gradle/caches/transforms-2/files-2.1/196864f9157bb02282b91dc909267947/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/coeus/.gradle/caches/transforms-2/files-2.1/196864f9157bb02282b91dc909267947/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5338bbb3417e98c14b4c1ffcf6dc2c22/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5338bbb3417e98c14b4c1ffcf6dc2c22/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/077b7f8edc2ab19dfc3d0ac29236c1fe/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/077b7f8edc2ab19dfc3d0ac29236c1fe/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1f762a8581c65b0ce89e41d9345aa762/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1f762a8581c65b0ce89e41d9345aa762/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\077b7f8edc2ab19dfc3d0ac29236c1fe\core-1.6.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/077b7f8edc2ab19dfc3d0ac29236c1fe/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:11:9-34
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:11:9-34
+	android:exported
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:12:9-33
 	android:roundIcon
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:16:9-54
+	android:taskAffinity
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:13:9-39
 	android:usesCleartextTraffic
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:15:9-44
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:17:9-44
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:8:9-35
 activity#com.example.demo.ui.ParaActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:16:9-18:40
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:18:9-20:39
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:18:13-37
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:17:13-44
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:19:13-44
 activity#com.example.demo.ui.QuranActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:19:9-21:40
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:21:9-23:39
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:22:13-45
 activity#com.example.demo.ui.SelectRecitorActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:22:9-24:40
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:24:9-26:39
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:23:13-53
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:25:13-53
 activity#com.example.demo.ui.SettingsActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:25:9-27:40
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:27:9-29:39
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:27:13-37
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:26:13-48
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:28:13-48
 activity#com.example.demo.ui.MainActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:28:9-38:20
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:30:9-40:20
 	android:label
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:33:13-56
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:32:13-36
 	android:theme
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:32:13-58
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:34:13-58
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:29:13-44
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:31:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:38:27-74
 activity#com.example.demo.ui.SurahActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:39:9-41:40
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:41:9-43:39
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:41:13-37
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:40:13-45
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:42:13-45
 activity#com.example.demo.ui.SurahListActivity
-ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:42:9-44:39
+ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:44:9-46:39
 	android:exported
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:44:13-36
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:46:13-36
 	android:name
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml:43:13-49
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml:45:13-49
 uses-sdk
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b7cfb7b073b9f8ca135319deb2844ed5\databinding-adapters-4.1.1\AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b7cfb7b073b9f8ca135319deb2844ed5\databinding-adapters-4.1.1\AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\eb0072bd616b8789a227918aeb06cb25\databinding-runtime-4.1.1\AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\eb0072bd616b8789a227918aeb06cb25\databinding-runtime-4.1.1\AndroidManifest.xml:22:5-44
-MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\62552321a675ec0e408083d53ef2dfe1\jetified-viewbinding-4.1.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\62552321a675ec0e408083d53ef2dfe1\jetified-viewbinding-4.1.1\AndroidManifest.xml:20:5-44
-MERGED from [io.coil-kt:coil:1.4.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\25b01c9363d4f1fa8dcf356b4a0b5516\jetified-coil-1.4.0\AndroidManifest.xml:5:5-7:41
-MERGED from [io.coil-kt:coil:1.4.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\25b01c9363d4f1fa8dcf356b4a0b5516\jetified-coil-1.4.0\AndroidManifest.xml:5:5-7:41
-MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f007519e9e3395564b41ead310df53cd\jetified-coil-base-1.4.0\AndroidManifest.xml:5:5-7:41
-MERGED from [io.coil-kt:coil-base:1.4.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f007519e9e3395564b41ead310df53cd\jetified-coil-base-1.4.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a031989a271d8e307e8982513a863c32\jetified-lifecycle-livedata-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a031989a271d8e307e8982513a863c32\jetified-lifecycle-livedata-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3ef25b2c1d1b05ab1ada4c4943228030\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3ef25b2c1d1b05ab1ada4c4943228030\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\19a0304f42a307a88a00b1eaaa374b77\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\19a0304f42a307a88a00b1eaaa374b77\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ba76d494bf9ece197879d97de2c06d2f\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ba76d494bf9ece197879d97de2c06d2f\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8f885e1248cbde449004d253aa107180\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8f885e1248cbde449004d253aa107180\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\96d70613d1011213e930fd8b967e5561\navigation-ui-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\96d70613d1011213e930fd8b967e5561\navigation-ui-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0d4dd6ac321d07ceeec660b57345a938\navigation-runtime-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0d4dd6ac321d07ceeec660b57345a938\navigation-runtime-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\09fa36f6b5ba76ca30637cda2f97dd07\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\09fa36f6b5ba76ca30637cda2f97dd07\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\70bf3515c10701d7b9c171c75d58b872\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\70bf3515c10701d7b9c171c75d58b872\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5d4ee7504f58a1c2775884f6e0bce384\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5d4ee7504f58a1c2775884f6e0bce384\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aa103fee805a621804824fb0733c7d7d\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aa103fee805a621804824fb0733c7d7d\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\196864f9157bb02282b91dc909267947\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0-beta01] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\196864f9157bb02282b91dc909267947\material-1.4.0-beta01\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5338bbb3417e98c14b4c1ffcf6dc2c22\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5338bbb3417e98c14b4c1ffcf6dc2c22\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e0351b3bf59da5737000950e68635684\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e0351b3bf59da5737000950e68635684\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\239936fa9eb17fd6a736e16c102fdf2e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\239936fa9eb17fd6a736e16c102fdf2e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\31bccff63facfabcc84a0941f5745a86\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\31bccff63facfabcc84a0941f5745a86\jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\085c25dadb39645c679a200850d57f7a\jetified-hilt-android-2.38.1\AndroidManifest.xml:18:3-42
-MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\085c25dadb39645c679a200850d57f7a\jetified-hilt-android-2.38.1\AndroidManifest.xml:18:3-42
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c2a4ba15f85a1c61ca7ab4d31cc796de\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c2a4ba15f85a1c61ca7ab4d31cc796de\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\64d222643c61f148af64f943f2312604\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\64d222643c61f148af64f943f2312604\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6a81bf926eb8707e9dffc924def625e9\navigation-common-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6a81bf926eb8707e9dffc924def625e9\navigation-common-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e4e785dfd4b0c45d92b87a8696ee95e4\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e4e785dfd4b0c45d92b87a8696ee95e4\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f878346d1763f63ddb8e0a22bbb43455\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f878346d1763f63ddb8e0a22bbb43455\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\87eb12e8f7ccd520102f9af7c30a0d55\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\87eb12e8f7ccd520102f9af7c30a0d55\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\307c3528db9ccfa6b2b825c48283263d\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\307c3528db9ccfa6b2b825c48283263d\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\45354f1c66bf153a616435f8aef649b7\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\45354f1c66bf153a616435f8aef649b7\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d867524ae716a3137d054aa44abf9ca1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d867524ae716a3137d054aa44abf9ca1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\bfea232eba9aa6e7e05e08d440ce22fd\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\bfea232eba9aa6e7e05e08d440ce22fd\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.intuit.ssp:ssp-android:1.0.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6152b5e78b80d0732cd9a0c30c5daeae\jetified-ssp-android-1.0.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.intuit.ssp:ssp-android:1.0.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6152b5e78b80d0732cd9a0c30c5daeae\jetified-ssp-android-1.0.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\138d51b607540c6469df5f3f6ea5fb90\jetified-sdp-android-1.0.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\138d51b607540c6469df5f3f6ea5fb90\jetified-sdp-android-1.0.5\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\be27981bf106d55c19f027ac59deac07\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\be27981bf106d55c19f027ac59deac07\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b25f70503b6cbff195ebf8546be0a0e6\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b25f70503b6cbff195ebf8546be0a0e6\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f46b49490b41083d52a466a0c6e0aad4\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f46b49490b41083d52a466a0c6e0aad4\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c135d0cf072858219c37cb2cda1d906e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c135d0cf072858219c37cb2cda1d906e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.2.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b77f7151d2891cfa8eff26bb3589c59a\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b77f7151d2891cfa8eff26bb3589c59a\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\efb79d74c41c29ac490865eb5db87f5d\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\efb79d74c41c29ac490865eb5db87f5d\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e6e9b9bfa0541fcac450db9a8a43038\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e6e9b9bfa0541fcac450db9a8a43038\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a511226b619ed9732a77eef7f6df6661\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a511226b619ed9732a77eef7f6df6661\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8c8747b0ac154137c412d4c0895e032b\lifecycle-livedata-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8c8747b0ac154137c412d4c0895e032b\lifecycle-livedata-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\db02a9c4547c2920c0eba09b2adbf235\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\db02a9c4547c2920c0eba09b2adbf235\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6795f26118607ad5b0e88ac02f422c21\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6795f26118607ad5b0e88ac02f422c21\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1577f0a2487a38b8eabf276428094d70\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1577f0a2487a38b8eabf276428094d70\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b3c19c49079cf98869c7f71e68881b4b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b3c19c49079cf98869c7f71e68881b4b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9377d8d04997a64e1e3175b8e91bd0f7\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9377d8d04997a64e1e3175b8e91bd0f7\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8880c631f0a9af390b5eedb7b97e488a\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8880c631f0a9af390b5eedb7b97e488a\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\494607ca5aaa0b501cf6e5413cbab863\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\494607ca5aaa0b501cf6e5413cbab863\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4a89ca58ee60249d02822908c7168d8e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4a89ca58ee60249d02822908c7168d8e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\07ce862dee28bd054a8edbd4ab3c440b\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\07ce862dee28bd054a8edbd4ab3c440b\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\35613a5de30162c5168cc7e6bc6f2c74\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\35613a5de30162c5168cc7e6bc6f2c74\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\7ebf750a6420ef0c5cf5bf0956aa5306\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\7ebf750a6420ef0c5cf5bf0956aa5306\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b4e0e59b6f82b9e39daa223ee0f78739\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b4e0e59b6f82b9e39daa223ee0f78739\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\077b7f8edc2ab19dfc3d0ac29236c1fe\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\077b7f8edc2ab19dfc3d0ac29236c1fe\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b19e1bbc434136d1c77fe8fff3775cd0\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b19e1bbc434136d1c77fe8fff3775cd0\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b701850023ecfcb72d9358631823e4ff\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b701850023ecfcb72d9358631823e4ff\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b92bb01e975c4c4e0b133eee9fc8f853\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b92bb01e975c4c4e0b133eee9fc8f853\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\626b0704fd8c8d81ce26adb55882031f\sqlite-2.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\626b0704fd8c8d81ce26adb55882031f\sqlite-2.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8e1a728e6ae0d9d70544eedfcf328c02\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\8e1a728e6ae0d9d70544eedfcf328c02\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d9c575fffeb03e1f6262c62548a21b3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d9c575fffeb03e1f6262c62548a21b3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\68b1eb7bfe353fccfaacf1387e638f0d\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\68b1eb7bfe353fccfaacf1387e638f0d\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a7de4c313e671571f0841621a6b2c31b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a7de4c313e671571f0841621a6b2c31b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\eeb4d37d5e9b661a6d11b00093d7fe69\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\eeb4d37d5e9b661a6d11b00093d7fe69\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3637a9fa02f514d02027194a16287cbf\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3637a9fa02f514d02027194a16287cbf\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1f762a8581c65b0ce89e41d9345aa762\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1f762a8581c65b0ce89e41d9345aa762\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cc1d983b10f448058d31ce28fbed63aa\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cc1d983b10f448058d31ce28fbed63aa\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\152bbc500adddea585ea6d9f8137fff9\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\152bbc500adddea585ea6d9f8137fff9\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9939fec7987ada03df38cc72cae6c29a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9939fec7987ada03df38cc72cae6c29a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\21bb3ff68203042edc9cc8b9cb61703b\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
-MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\21bb3ff68203042edc9cc8b9cb61703b\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b7cfb7b073b9f8ca135319deb2844ed5/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b7cfb7b073b9f8ca135319deb2844ed5/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eb0072bd616b8789a227918aeb06cb25/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eb0072bd616b8789a227918aeb06cb25/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/62552321a675ec0e408083d53ef2dfe1/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/62552321a675ec0e408083d53ef2dfe1/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil:1.4.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/25b01c9363d4f1fa8dcf356b4a0b5516/jetified-coil-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.4.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/25b01c9363d4f1fa8dcf356b4a0b5516/jetified-coil-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f007519e9e3395564b41ead310df53cd/jetified-coil-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.4.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f007519e9e3395564b41ead310df53cd/jetified-coil-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a031989a271d8e307e8982513a863c32/jetified-lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a031989a271d8e307e8982513a863c32/jetified-lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eeca56889edcacfb6394e03733213a47/jetified-room-ktx-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eeca56889edcacfb6394e03733213a47/jetified-room-ktx-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/19a0304f42a307a88a00b1eaaa374b77/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/19a0304f42a307a88a00b1eaaa374b77/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/ba76d494bf9ece197879d97de2c06d2f/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/ba76d494bf9ece197879d97de2c06d2f/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8f885e1248cbde449004d253aa107180/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8f885e1248cbde449004d253aa107180/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/96d70613d1011213e930fd8b967e5561/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/96d70613d1011213e930fd8b967e5561/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/0d4dd6ac321d07ceeec660b57345a938/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/0d4dd6ac321d07ceeec660b57345a938/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/09fa36f6b5ba76ca30637cda2f97dd07/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/09fa36f6b5ba76ca30637cda2f97dd07/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/70bf3515c10701d7b9c171c75d58b872/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/70bf3515c10701d7b9c171c75d58b872/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5d4ee7504f58a1c2775884f6e0bce384/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5d4ee7504f58a1c2775884f6e0bce384/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/aa103fee805a621804824fb0733c7d7d/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/aa103fee805a621804824fb0733c7d7d/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/coeus/.gradle/caches/transforms-2/files-2.1/196864f9157bb02282b91dc909267947/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/coeus/.gradle/caches/transforms-2/files-2.1/196864f9157bb02282b91dc909267947/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5338bbb3417e98c14b4c1ffcf6dc2c22/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/5338bbb3417e98c14b4c1ffcf6dc2c22/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/e0351b3bf59da5737000950e68635684/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/e0351b3bf59da5737000950e68635684/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/239936fa9eb17fd6a736e16c102fdf2e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/239936fa9eb17fd6a736e16c102fdf2e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/coeus/.gradle/caches/transforms-2/files-2.1/31bccff63facfabcc84a0941f5745a86/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/coeus/.gradle/caches/transforms-2/files-2.1/31bccff63facfabcc84a0941f5745a86/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/085c25dadb39645c679a200850d57f7a/jetified-hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/085c25dadb39645c679a200850d57f7a/jetified-hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/c2a4ba15f85a1c61ca7ab4d31cc796de/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/c2a4ba15f85a1c61ca7ab4d31cc796de/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/64d222643c61f148af64f943f2312604/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/64d222643c61f148af64f943f2312604/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6a81bf926eb8707e9dffc924def625e9/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6a81bf926eb8707e9dffc924def625e9/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/e4e785dfd4b0c45d92b87a8696ee95e4/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/coeus/.gradle/caches/transforms-2/files-2.1/e4e785dfd4b0c45d92b87a8696ee95e4/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f878346d1763f63ddb8e0a22bbb43455/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f878346d1763f63ddb8e0a22bbb43455/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/87eb12e8f7ccd520102f9af7c30a0d55/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/87eb12e8f7ccd520102f9af7c30a0d55/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/307c3528db9ccfa6b2b825c48283263d/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/307c3528db9ccfa6b2b825c48283263d/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/45354f1c66bf153a616435f8aef649b7/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/45354f1c66bf153a616435f8aef649b7/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/d867524ae716a3137d054aa44abf9ca1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/d867524ae716a3137d054aa44abf9ca1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/bfea232eba9aa6e7e05e08d440ce22fd/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/bfea232eba9aa6e7e05e08d440ce22fd/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6152b5e78b80d0732cd9a0c30c5daeae/jetified-ssp-android-1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6152b5e78b80d0732cd9a0c30c5daeae/jetified-ssp-android-1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/coeus/.gradle/caches/transforms-2/files-2.1/138d51b607540c6469df5f3f6ea5fb90/jetified-sdp-android-1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/coeus/.gradle/caches/transforms-2/files-2.1/138d51b607540c6469df5f3f6ea5fb90/jetified-sdp-android-1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/be27981bf106d55c19f027ac59deac07/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/be27981bf106d55c19f027ac59deac07/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b25f70503b6cbff195ebf8546be0a0e6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b25f70503b6cbff195ebf8546be0a0e6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f46b49490b41083d52a466a0c6e0aad4/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/f46b49490b41083d52a466a0c6e0aad4/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/c135d0cf072858219c37cb2cda1d906e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/c135d0cf072858219c37cb2cda1d906e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b77f7151d2891cfa8eff26bb3589c59a/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b77f7151d2891cfa8eff26bb3589c59a/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/efb79d74c41c29ac490865eb5db87f5d/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/efb79d74c41c29ac490865eb5db87f5d/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a511226b619ed9732a77eef7f6df6661/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a511226b619ed9732a77eef7f6df6661/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b701850023ecfcb72d9358631823e4ff/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b701850023ecfcb72d9358631823e4ff/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9e6e9b9bfa0541fcac450db9a8a43038/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9e6e9b9bfa0541fcac450db9a8a43038/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6795f26118607ad5b0e88ac02f422c21/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/6795f26118607ad5b0e88ac02f422c21/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1577f0a2487a38b8eabf276428094d70/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1577f0a2487a38b8eabf276428094d70/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b3c19c49079cf98869c7f71e68881b4b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b3c19c49079cf98869c7f71e68881b4b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9377d8d04997a64e1e3175b8e91bd0f7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9377d8d04997a64e1e3175b8e91bd0f7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8880c631f0a9af390b5eedb7b97e488a/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8880c631f0a9af390b5eedb7b97e488a/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/494607ca5aaa0b501cf6e5413cbab863/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/494607ca5aaa0b501cf6e5413cbab863/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4a89ca58ee60249d02822908c7168d8e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4a89ca58ee60249d02822908c7168d8e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/07ce862dee28bd054a8edbd4ab3c440b/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/07ce862dee28bd054a8edbd4ab3c440b/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/35613a5de30162c5168cc7e6bc6f2c74/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/35613a5de30162c5168cc7e6bc6f2c74/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/7ebf750a6420ef0c5cf5bf0956aa5306/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/7ebf750a6420ef0c5cf5bf0956aa5306/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b4e0e59b6f82b9e39daa223ee0f78739/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b4e0e59b6f82b9e39daa223ee0f78739/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/077b7f8edc2ab19dfc3d0ac29236c1fe/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/077b7f8edc2ab19dfc3d0ac29236c1fe/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b19e1bbc434136d1c77fe8fff3775cd0/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/b19e1bbc434136d1c77fe8fff3775cd0/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8c8747b0ac154137c412d4c0895e032b/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8c8747b0ac154137c412d4c0895e032b/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/db02a9c4547c2920c0eba09b2adbf235/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/db02a9c4547c2920c0eba09b2adbf235/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/09bd02865c15b632116c3009cac0fab7/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/09bd02865c15b632116c3009cac0fab7/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/de4668a716410f7c84c78a6aa436c69c/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/de4668a716410f7c84c78a6aa436c69c/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eeb4d37d5e9b661a6d11b00093d7fe69/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/eeb4d37d5e9b661a6d11b00093d7fe69/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8e1a728e6ae0d9d70544eedfcf328c02/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/8e1a728e6ae0d9d70544eedfcf328c02/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/d9c575fffeb03e1f6262c62548a21b3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/d9c575fffeb03e1f6262c62548a21b3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/68b1eb7bfe353fccfaacf1387e638f0d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/68b1eb7bfe353fccfaacf1387e638f0d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a7de4c313e671571f0841621a6b2c31b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a7de4c313e671571f0841621a6b2c31b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/3637a9fa02f514d02027194a16287cbf/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/3637a9fa02f514d02027194a16287cbf/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1f762a8581c65b0ce89e41d9345aa762/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/1f762a8581c65b0ce89e41d9345aa762/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/cc1d983b10f448058d31ce28fbed63aa/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/cc1d983b10f448058d31ce28fbed63aa/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/152bbc500adddea585ea6d9f8137fff9/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/152bbc500adddea585ea6d9f8137fff9/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9939fec7987ada03df38cc72cae6c29a/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/9939fec7987ada03df38cc72cae6c29a/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/21bb3ff68203042edc9cc8b9cb61703b/jetified-dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/coeus/.gradle/caches/transforms-2/files-2.1/21bb3ff68203042edc9cc8b9cb61703b/jetified-dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
-		INJECTED from D:\FreeLauncing\playStore\QuranApp\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/coeus/Documents/HassanMirza/Working/playStore/QuranApp/app/src/main/AndroidManifest.xml
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4d7e8ca0f1969c88ce24196615738f7b\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0] /Users/coeus/.gradle/caches/transforms-2/files-2.1/4d7e8ca0f1969c88ce24196615738f7b/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+ADDED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
 	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
 	android:name
-		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\coeus\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\03651505280aa1a94dc278a79c0e5e10\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/coeus/.gradle/caches/transforms-2/files-2.1/a3576d4ee08f510d6372d29ca9f3ff8d/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
